@@ -1,0 +1,6 @@
+To delete a repository in GitHub, you can: 
+Go to the repository you want to delete
+Click Settings under the repository name
+Scroll to the Danger Zone section
+Click Delete this repository
+Click I want to delete this repository
